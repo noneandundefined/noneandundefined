@@ -4,7 +4,7 @@ Hi 👋 My name is Artem
 Web Development
 ---------------
 
-Hello! I'm Artem, a programmer with experience in both frontend and backend development. I also specialize in using Golang to build websites.
+Hello! I'm Artem, a programmer with experience in both frontend and backend development. I also specialize in using c# ASP.NET to build server.
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [aworkprogramm@gmail.com](mailto:aworkprogramm@gmail.com)
