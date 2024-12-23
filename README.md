@@ -10,9 +10,9 @@
 
 - 📫 How to contact me **aworkprogramm@gmail.com**
 
-- 📄 Find out about my experience [https://artemiik-portfolio.vercel.app/](https://artemiik-portfolio.vercel.app/)<
+- 📄 Find out about my experience [https://artemiik-portfolio.vercel.app/](https://artemiik-portfolio.vercel.app/)
 
-h3 align="left">Contact me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://instagram.com/artem.iik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artem.iik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/artemiik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="artemiik" height="30" width="40" /></a>
