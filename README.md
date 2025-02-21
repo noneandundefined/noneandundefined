@@ -16,6 +16,6 @@
 
 <p><a href="https://boosty.to/artem.iik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="artem.iik" /></a></p><br><br>
 
-### GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noneandundefined&show_icons=true&locale=en&layout=compact" alt="artymiik" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noneandundefined&show_icons=true&locale=en&layout=compact" alt="artymiik" /></p>
