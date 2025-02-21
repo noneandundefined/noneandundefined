@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artemiik</h1>
 <h3 align="center">full-stack programmer from Russia</h3>
-<img src="https://i.imghippo.com/files/gNPP9646ags.jpg" alt="" align="right" width="400" border="0">
 
 <p align="left">Artem is from Russia, an experienced full-stack developer specializing in creating high-quality software. With in-depth knowledge of functional and reactive programming, he strives for excellence in every project. I develop complex applications in C#, TypeScript, Rust, and Go. These technologies allowed him to gain unique experience working with various platforms and frameworks. At the moment, Artyom is actively involved in the development of open-source projects, making a significant contribution to the development of the community. One of his key areas of activity is working on the library of Vision UI components.</p>
 
@@ -25,3 +24,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://boosty.to/artem.iik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="artem.iik" /></a></p><br><br>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=noneandundefined&show_icons=true&locale=en&layout=compact" alt="artymiik" /></p>
