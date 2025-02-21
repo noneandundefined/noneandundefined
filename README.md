@@ -2,7 +2,7 @@
 <h3 align="center">full-stack programmer from Russia</h3>
 <img src="https://i.imghippo.com/files/gNPP9646ags.jpg" alt="" align="right" width="400" border="0">
 
-<p align="center">Artem is from Russia, an experienced full-stack developer specializing in creating high-quality software. With in-depth knowledge of functional and reactive programming, he strives for excellence in every project. I develop complex applications in C#, TypeScript, Rust, and Go. These technologies allowed him to gain unique experience working with various platforms and frameworks. At the moment, Artyom is actively involved in the development of open-source projects, making a significant contribution to the development of the community. One of his key areas of activity is working on the library of Vision UI components.</p>
+<p align="left">Artem is from Russia, an experienced full-stack developer specializing in creating high-quality software. With in-depth knowledge of functional and reactive programming, he strives for excellence in every project. I develop complex applications in C#, TypeScript, Rust, and Go. These technologies allowed him to gain unique experience working with various platforms and frameworks. At the moment, Artyom is actively involved in the development of open-source projects, making a significant contribution to the development of the community. One of his key areas of activity is working on the library of Vision UI components.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artymiik&label=Profile%20views&color=0e75b6&style=flat" alt="artymiik" /> </p>
 
