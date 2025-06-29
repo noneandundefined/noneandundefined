@@ -1,5 +1,3 @@
-<p align="left">Artem is from Russia, an experienced full-stack developer specializing in creating high-quality software. With in-depth knowledge of functional and reactive programming, he strives for excellence in every project. I develop complex applications in C#, TypeScript, C, and Go. These technologies allowed him to gain unique experience working with various platforms and frameworks. At the moment, Artyom is actively involved in the development of open-source projects, making a significant contribution to the development of the community.</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artymiik&label=Profile%20views&color=0e75b6&style=flat" alt="artymiik" /> </p>
 
 ### Languages and tools
